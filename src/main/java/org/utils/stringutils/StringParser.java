@@ -1,5 +1,7 @@
 package org.utils.stringutils;
 
+import org.utils.exceptions.InvalidStringInputException;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
