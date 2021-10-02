@@ -13,7 +13,7 @@ class StringParserTest {
     // Input, one separator, two parts - Happy path (positive test case)
     @Test
     void splitString_oneSeparator_expectTwoParts() throws InvalidStringInputException {
-        // Setup lalala
+        // Setup 
         String inputString = "Hello|world";
         StringParser sp = new StringParser();
         String separator = "\\|";
